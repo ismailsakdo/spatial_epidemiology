@@ -1,2 +1,2 @@
-# spatial_epidemiology
+# Spatial Epidemiology
 Spatial Epidemiology Formula and Coding
