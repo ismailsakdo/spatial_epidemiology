@@ -3,7 +3,7 @@ from qgis.PyQt.QtCore import QVariant
 from qgis.utils import iface
 
 # Path to the shapefile
-shapefile_path = '/Users/ismailsa/Downloads/0.AaaaGIS/SabahNew/dataCase/sabahDummy.shp'
+shapefile_path = '/Users/UserName/Folder/YourFolder/YourShape.shp'
 shapefile_layer_name = 'Shapefile'
 shapefile_provider_type = 'ogr'
 
