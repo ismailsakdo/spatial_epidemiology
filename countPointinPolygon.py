@@ -7,7 +7,6 @@ from qgis.core import (
     QgsFeature,
     QgsCoordinateReferenceSystem
 )
-
 from qgis.PyQt.QtCore import QVariant
 from qgis.utils import iface
 import csv
@@ -88,8 +87,6 @@ else:
     # Remove the temporary CSV Points layer
     QgsProject.instance().removeMapLayer(layer)
 
-#==== Step 2 Insert Map
-
 # Path to the shapefile
 shapefilePoly_path = '/Users/ismailsa/Downloads/0.AaaaGIS/SabahNew/dataCase/sabahDummy.shp'
 shapefilePoly_layer_name = 'Shapefile'
@@ -112,4 +109,18 @@ iface.setActiveLayer(shapefilePoly_layer)
 # Zoom to the extent of the shapefile layer
 iface.zoomToActiveLayer()
 
-#====== Step 3 Count Point In Polygon
+# Run the "Count Points in Polygon" algorithm
+result = processing.run("qgis:countpointsinpolygon", {
+    'POLYGONS': shapefilePoly_layer,
+    'POINTS': saved_layer,
+    'FIELD_PREFIX': 'count_',
+    'OUTPUT': 'memory:'
+})
+
+# Check if the algorithm ran successfully
+if result['OUTPUT']:
+    count_layer = result['OUTPUT']
+    # Add the count layer to the QGIS workspace
+    QgsProject.instance().addMapLayer(count_layer)
+else:
+    print("Failed to run the 'Count Points in Polygon' algorithm.")
