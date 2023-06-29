@@ -8,3 +8,8 @@ Google Sheet Formula
 
 Python:
 /Users/ismailsa/Downloads/0.AaaaGIS/SabahNew/dataCase/
+
+STEP:
+1) [Insert ShapeFile](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/insertShapeFile.py)
+2) [Insert CSV as XY point data](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/insertCSVasVector.py)
+3) [Insert CSV as 10 Column and Save the Shape](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/insertCSV10colSHPsave.py)
