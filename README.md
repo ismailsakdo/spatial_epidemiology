@@ -25,3 +25,4 @@ STEP:
 4) Counted Poly Week 1 and safe as new Counted Poly [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/countedPoly.py)
 5) Count Week1 and Week2 Together save as Counted Poly [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1%262.py)
 6) Count by week 1 until week 3 [Link](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1till3.py)
+7) This is exclusive by WEEK 1, then WEK 2, THEN WEEK 3, the example of No.6, accumulate [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/exclusiveWeek1Till3.py)
