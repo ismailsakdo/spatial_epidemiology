@@ -24,3 +24,4 @@ STEP:
 3) Filter by multiple Week [Link](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/filterWeek1till4.py)
 4) Counted Poly Week 1 and safe as new Counted Poly [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/countedPoly.py)
 5) Count Week1 and Week2 Together save as Counted Poly [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1%262.py)
+6) Count by week 1 until week 3 [Link](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1till3.py)
