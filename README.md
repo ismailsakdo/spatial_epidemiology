@@ -27,3 +27,4 @@ STEP:
 6) Count by week 1 until week 3 [Link](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1till3.py)
 7) This is exclusive by WEEK 1, then WEK 2, THEN WEEK 3, the example of No.6, accumulate [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/exclusiveWeek1Till3.py)
 8) Counted by week 1 until 3 and filter by gender [LINK] (https://github.com/ismailsakdo/spatial_epidemiology/blob/main/week1till5FILTERgender.py)
+9) Counted by Week and Year [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/caseWeek%26Year.py)
