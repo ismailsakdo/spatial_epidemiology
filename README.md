@@ -19,4 +19,6 @@ STEP:
 7) [Final Code Day1](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/pointINpolygonClose.py)
 
 ## Day 2
-1) Call the shapefile and filter the data [LINK]()
+1) Call the shapefile and filter the data [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/importFilter.py)
+2) Filter by OR [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/filterBYor.py)
+3) Filter by multiple Week [Link](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/filterWeek1till4.py)
