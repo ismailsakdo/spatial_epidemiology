@@ -17,6 +17,7 @@ STEP:
 5) [Insert Point Data into the Polygon and Count Point in Polygon in Week 4](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/insertPointPolygon.py)
 6) [Count Point Polygon and Safe as CaseFile](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/countPointPolygonSave.py)
 7) [Final Code Day1](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/pointINpolygonClose.py)
+8) How to import the csv file into QGIS as Vector data and safe it as ESRI Shapefile using Python in QGIS [LINK]()
 
 ## Day 2
 1) Call the shapefile and filter the data [LINK](https://github.com/ismailsakdo/spatial_epidemiology/blob/main/importFilter.py)
