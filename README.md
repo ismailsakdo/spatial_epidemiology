@@ -1,4 +1,4 @@
-# Spatial Epidemiology
+# Spatial Epidemiology With Python
 Spatial Epidemiology Formula and Coding
 
 Google Sheet Formula
