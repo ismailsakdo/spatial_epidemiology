@@ -1,5 +1,5 @@
 # Spatial Epidemiology With Python
-Spatial Epidemiology Formula and Coding
+Spatial Epidemiology Formula and Coding. This repo was created to simulate thr simplest fuction of count point in polygon from point data (csv) into the vector format and them proceed to be calculated as polygon density inside the given polygon. Suitable for cluster analysis and LISA applications later in GeoDa/ spatial statistics.
 
 Google Sheet Formula
 1) Formula 1: =IF(A1=0, "Male", IF(A1=1, "Female", ""))
